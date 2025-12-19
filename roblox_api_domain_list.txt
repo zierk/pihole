@@ -1,0 +1,375 @@
+This is a list of all known endpoints for the Roblox API. 
+
+This list is meant to be used as a educational & informative 
+resource to help you match thirdparty development with the functionality 
+that you need. It's highly advised and against the point of this list to abuse, 
+cheat or phish other users. Please be mindful. 
+
+[Basic]
+websiteUrl - https://www.roblox.com
+apiProxyUrl - https://api.roblox.com (deprecated / no longer reachable)
+
+[Domain-Specific]
+abtestingApiSite - https://abtesting.roblox.com
+accountInformationApi - https://accountinformation.roblox.com
+accountSettingsApi - https://accountsettings.roblox.com
+adConfigurationApi - https://adconfiguration.roblox.com
+adsApi - https://ads.roblox.com
+apiGatewayUrl - https://apis.roblox.com
+assetDeliveryApi - https://assetdelivery.roblox.com
+authApi - https://auth.roblox.com
+authAppSite - https://authsite.roblox.com
+avatarApi - https://avatar.roblox.com
+badgesApi - https://badges.roblox.com
+billingApi - https://billing.roblox.com
+captchaApi - https://captcha.roblox.com
+catalogApi - https://catalog.roblox.com
+chatApi - https://chat.roblox.com
+contactsApi - https://contacts.roblox.com
+developApi - https://develop.roblox.com
+economyApi - https://economy.roblox.com (not public / visible)
+economycreatorstatsApi - https://economycreatorstats.roblox.com
+engagementPayoutsApi - https://engagementpayouts.roblox.com
+followingsApi - https://followings.roblox.com
+friendsApi - https://friends.roblox.com
+friendsAppSite - https://friendsite.roblox.com
+gamesApi - https://games.roblox.com
+gameInternationalizationApi - https://gameinternationalization.roblox.com
+groupsApi - https://groups.roblox.com
+inventoryApi - https://inventory.roblox.com
+itemConfigurationApi - https://itemconfiguration.roblox.com
+localeApi - https://locale.roblox.com
+localizationTablesApi - https://localizationtables.roblox.com
+metricsApi - https://metrics.roblox.com
+midasApi - https://midas.roblox.com
+notificationApi - https://notifications.roblox.com
+premiumFeaturesApi - https://premiumfeatures.roblox.com
+presenceApi - https://presence.roblox.com
+privatemMessagesApi - https://privatemessages.roblox.com
+publishApi - https://publish.roblox.com
+screenTimeApi - https://apis.rcs.roblox.com/screen-time-api
+thumbnailsApi - https://thumbnails.roblox.com
+tradesApi - https://trades.roblox.com
+translationRolesApi - https://translationroles.roblox.com
+universalAppConfigurationApi - https://apis.roblox.com/universal-app-configuration
+usersApi - https://users.roblox.com
+voiceApi - https://voice.roblox.com
+shareApi - https://share.roblox.com
+
+[Other-Domain-Specific]
+https://web206.ra.roblox.com
+https://web326.ra.roblox.com
+https://web247.ra.roblox.com
+https://web208.ra.roblox.com
+https://web288.ra.roblox.com
+https://web209.ra.roblox.com
+https://web229.ra.roblox.com
+https://jira.roblox.com
+https://data.roblox.com
+https://job.roblox.com
+https://misc.roblox.com
+https://midas-android.roblox.com
+https://confluence.roblox.com
+https://perforce.roblox.com
+https://de.roblox.com
+https://infrastructure.roblox.com
+https://friendsite.roblox.com
+https://gamesite.roblox.com
+https://membershipsite.roblox.com
+https://avatarsite.roblox.com
+https://chatsite.roblox.com
+https://bronze.roblox.com
+https://t0-cf.roblox.com
+https://t1-cf.roblox.com
+https://t2-cf.roblox.com
+https://c3-cf.roblox.com
+https://t6-cf.roblox.com
+https://c7-cf.roblox.com
+https://setup-cf.roblox.com
+https://graph.roblox.com
+https://messagerouter.api.roblox.com
+https://games.api.roblox.com
+https://clientsettings.api.roblox.com
+https://versioncompatibility.api.roblox.com
+https://setup-ak.roblox.com
+https://c0ak.roblox.com
+https://t0ak.roblox.com
+https://c1ak.roblox.com
+https://c2ak.roblox.com
+https://t2ak.roblox.com
+https://c3ak.roblox.com
+https://t3ak.roblox.com
+https://c4ak.roblox.com
+https://t4ak.roblox.com
+https://c5ak.roblox.com
+https://t5ak.roblox.com
+https://c6ak.roblox.com
+https://t6ak.roblox.com
+https://c7ak.roblox.com
+https://t7ak.roblox.com
+https://imagesak.roblox.com
+https://jsak.roblox.com
+https://uk.roblox.com
+https://mail.roblox.com
+https://t.email.roblox.com
+https://nl.roblox.com
+https://m.roblox.com
+https://forum.roblox.com
+https://o5.em8221.devforum.roblox.com
+https://altdevforum.roblox.com
+https://golden.roblox.com
+https://chi1-origin.roblox.com
+https://bloxcon.roblox.com
+https://search-comparison.roblox.com
+https://vpn.roblox.com
+https://awsvpn.roblox.com
+https://go.roblox.com
+https://help.roblox.com
+https://dmp.roblox.com
+https://shop.roblox.com
+https://fr.roblox.com
+https://jobs.roblox.com
+https://rjobs.roblox.com
+https://public.ecs.roblox.com
+https://test.public.ecs.roblox.com
+https://upload.crashes.roblox.com
+https://sales.roblox.com
+https://themes.roblox.com
+https://affiliates.roblox.com
+https://tfs.roblox.com
+https://apis.roblox.com
+https://partners.roblox.com
+https://developers.roblox.com
+https://punishments.roblox.com
+https://events.roblox.com
+https://news.roblox.com
+https://web120.p1t.roblox.com
+https://web102.p1t.roblox.com
+https://web103.p1t.roblox.com
+https://web104.p1t.roblox.com
+https://web114.p1t.roblox.com
+https://web124.p1t.roblox.com
+https://web115.p1t.roblox.com
+https://web125.p1t.roblox.com
+https://web108.p1t.roblox.co
+https://content.roblox.com
+https://pt.roblox.com
+https://persist.roblox.com
+https://midas-webpay.roblox.com
+https://survey.roblox.com
+https://deploy.roblox.com
+https://community.roblox.com
+https://nrt-gw.vpn.cn.roblox.com
+https://vpn.cn.roblox.com
+https://www.corp.roblox.com
+
+[Inactive-Domain-Specific]
+https://realtime1.roblox.com
+https://lweb7.p1.roblox.com
+https://setup.gametest1.roblox.com
+https://www1.roblox.com
+https://realtime2.roblox.com
+https://setup.gametest2.roblox.com
+https://www2.roblox.com
+https://realtime3.roblox.com
+https://logging.service.roblox.com
+https://abuse.roblox.com
+https://notificationsite.roblox.com
+https://groupsite.roblox.com
+https://setup-staging.roblox.com
+https://wikiblog.roblox.com
+https://socialauth.roblox.com
+https://social.roblox.com
+https://wiki-origin.roblox.com
+https://corp-origin.roblox.com
+https://de.help.roblox.com
+https://fr.help.roblox.com
+https://es.help.roblox.com
+https://pt.help.roblox.com
+https://blogs.roblox.com
+https://polls.roblox.com
+https://web111.p1t.roblox.com
+https://web121.p1t.roblox.com
+https://web171.p1t.roblox.com
+https://lweb2.p1t.roblox.com
+https://web123.p1t.roblox.com
+https://web117.p1t.roblox.com
+https://test.roblox.com
+https://gametest.roblox.com
+https://setup-gametest.roblox.com
+https://setup-sitetest.roblox.com
+https://wwsw.roblox.com
+https://cpanel.www--roblox.com
+https://cpcalendars.www--roblox.com
+https://cpcontacts.www--roblox.com
+https://mail.www--roblox.com
+https://webdisk.www--roblox.com
+https://webmail.www--roblox.com
+https://www--roblox.com
+https://www.www--roblox.com
+https://cpanel.web--roblox.com
+https://cpcalendars.web--roblox.com
+https://cpcontacts.web--roblox.com
+https://mail.web--roblox.com
+https://webdisk.web--roblox.com
+https://webmail.web--roblox.com
+https://web--roblox.com
+https://www.web--roblox.com
+https://luobu-create.sitetest1.roblox.com
+https://www.vpn.cn.roblox.com
+https://p1.roblox.com
+https://www.events.roblox.com
+https://dev-altdevforum.roblox.com
+https://www.survey.roblox.com
+https://www.vpn.roblox.com
+https://www.jira.roblox.com
+https://www.tfs.roblox.com
+https://devrel.roblox.com
+https://www.wiki.roblox.com
+https://www.games.api.roblox.com
+https://www.help.roblox.com
+https://www.developer.roblox.com
+https://creatorforum.roblox.com
+https://p4d.roblox.com
+https://services.gametest.roblox.com
+https://services.roblox.com
+https://sitetest.roblox.com
+https://analytics.roblox.com
+https://sitetest2.roblox.com
+https://reports.roblox.com
+https://diag.roblox.com
+https://talent.roblox.com
+
+[Websocket]
+wss://realtime.roblox.com/notifications/connect
+
+[Misc]
+https://metrics.roblox.com/v1/csp/report?type=enforce
+http://ecsv2.roblox.com/pe?t=studio&evt=webBundleError
+https://metrics.roblox.com/v1/performance/measurements
+https://lms.roblox.com/report
+https://lms.roblox.com/recipe
+https://realtime.roblox.com/notifications/negotiate
+https://realtime.roblox.com/notifications/start
+http://ephemeralcounters.api.roblox.com/v1.1/Counters/BatchIncrement
+http://ephemeralcounters.api.roblox.com/v1.0/SequenceStatistics/BatchAddToSequencesV2
+https://ecsv2.roblox.com/studio/e.png?studioSid=STUDIO_SESSION_GUID&clientID=CLIENT_ID&userID=USERID&placeID=PLACEID&category=Action&evt=StudioUserAction&label=gridSizeToFourAction&value=0&platform=64bit
+https://ecsv2.roblox.com/pe?t=client&ctx=ABTestService&evt=ABTestStatus%5FPending&SD%2ePlatform%2eCT=PLATFORM_CT&%2ePlatform%2eID=PLATFORM_ID
+https://ecsv2.roblox.com/pe?t=client&ctx=ABTestService&evt=ABTestStatus%5FInitialized&SD%2ePlatform%2eCT=PLATFORM_CT&%2ePlatform%2eID=PLATFORM_ID
+https://www.roblox.com/game/report-stats?name=ResourcePerformance_Loaded_funcaptcha_Computer&value=7
+https://assetgame.roblox.com/game/report-event?name=WebsiteLogin_Attemp
+https://assetgame.roblox.com/game/report-event?name=WebsiteLogin_FirstAttempt
+https://assetgame.roblox.com/game/report-event?name=WebsiteLogin_Captcha
+https://assetgame.roblox.com/game/report-event?name=LoginFunCaptcha_Triggered
+https://assetgame.roblox.com/game/report-event?name=LoginFunCaptcha_Initialized
+https://assetgame.roblox.com/game/report-event?name=LoginFunCaptcha_Displayed
+https://assetgame.roblox.com/game/report-event?name=LoginFunCaptcha_Success
+https://assetgame.roblox.com/game/report-stats?name=LoginFunCaptcha_SolveTime_Success&value=206864
+https://assetgame.roblox.com/game/report-event?name=WebsiteLogin_Success
+https://metrics.roblox.com/v1/performance/send-measurement
+https://assetgame.roblox.com/game/report-event?name=WebsiteAccountSettingsPolicy_Success
+https://billing.roblox.com/v1/metrics/incrementcounterbyagent
+https://assetgame.roblox.com/game/report-event?name=Vantiv_IFrameRequest_Attempt
+https://assetgame.roblox.com/game/report-event?name=Vantiv_IFrameRequest_Success
+https://www.roblox.com/upgrades/payment/vantiv
+https://assetgame.roblox.com/game/report-event?name=XsollaCreditDebitCards_Succeeded
+https://www.roblox.com/gamecard/incommhandler.ashx?pin=1234567890&cachebuster=2099
+https://notifications.roblox.com/v2/push-notifications/chrome-manifest
+https://locale.roblox.com/v1/locales/user-localization-locus-supported-locales
+https://www.roblox.com/usercheck/show-tos?isLicensingTermsCheckNeeded=False
+https://www.roblox.com/upgrades/redeem?ap=470&pm=redeemCard&selectedUpsellProductId=0
+https://billing.roblox.com/v1/paymentmethods/redeemCard?ap=470
+https://billing.roblox.com/v1/paymentmethods?ap=470
+https://billing.roblox.com/v1/paymentmethods/paypal?ap=470
+https://billing.roblox.com/v1/paymentmethods/creditCard?ap=470
+https://apis.roblox.com/universal-app-configuration/v1/behaviors/robux-product-policy/content
+https://premiumfeatures.roblox.com/v1/products
+https://premiumfeatures.roblox.com/v1/users/158190828/subscriptions
+https://www.roblox.com/k/logo?m=136700&s=af2fd2802edd41249c0596957ba5187e
+https://www.roblox.com/account/settings/private-message-privacy
+https://accountsettings.roblox.com/v1/content-restriction
+https://www.roblox.com/account/settings/game-chat-privacy
+https://www.roblox.com/account/settings/app-chat-privacy
+https://www.roblox.com/account/settings/follow-me-privacy
+https://www.roblox.com/account/settings/private-server-invite-privacy
+https://www.roblox.com/account/settings/account-country
+https://www.roblox.com/account/settings/account-restrictions
+https://notifications.roblox.com/v2/notifications/get-settings
+https://twostepverification.roblox.com/v1/users/158190828/configuration
+https://www.roblox.com/my/settings/json
+https://www.roblox.com/account/settings/countries
+https://notifications.roblox.com/v2/stream-notifications/unread-count
+https://www.roblox.com/account/settings/settings-groups
+https://billing.roblox.com/v1/credit
+https://www.roblox.com/user-sponsorship/2
+https://roblox-api.arkoselabs.com/fc/assets/tile-game-ui/11.3.7/standard/index.html?meta=6
+https://roblox-api.arkoselabs.com/fc/api/?onload=reportFunCaptchaLoaded
+https://www.roblox.com/authentication/is-logged-in
+https://www.roblox.com/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZH6GgOgBQtqMPCPjRUnhj_pzNesAXKuAdu2pj-Sq-3JDJIgwEw2&t=637100646046795651
+https://www.roblox.com/My/money.aspx/getmytransactions
+https://search.roblox.com/catalog/contents?CatalogContext=DevelopOnly&Category=Models
+https://blog.roblox.com/wp-content/themes/roblox/favicon/manifest.json?v=14
+https://avatar.roblox.com/v1/recent-items/all/list
+https://www.roblox.com/users/inventory/list-json?assetTypeId=8&cursor=&itemsPerPage=100&pageNumber=1&userId=158190828
+https://economy.roblox.com/v1/purchases/products/:productId
+https://api.roblox.com/windows/v1/report-purchase
+https://api.roblox.com/reference/deviceinfo
+https://ads.roblox.com/v1/user-ads/assets/create
+https://ads.roblox.com/v1/user-ads/game-passes/create
+https://ads.roblox.com/v1/user-ads/groups/create
+https://apis.roblox.com/application-authorization/v1/authorize?client_id=CLIENT_ID&nonce=NONCE&redirect_uri=https://devforum.roblox.com/auth/oidc/callback&response_type=code&scope=openid+profile+email&state=STATE
+https://www.roblox.com/abusereport/gameupdate?id=UNIVERSE_ID%redirectUrl=REDIRECT_URL
+https://ecsv2.roblox.com/client/pbe
+https://api.roblox.com/Game/GetAllowedExperimentalFeatures?placeId=1818
+https://economy.roblox.com/v2/developer-products/:productId/purchase found this and this https://api.roblox.com/marketplace/productDetails
+https://api.roblox.com/developerproducts/list
+https://www.roblox.com/Analytics/Measurement.ashx
+https://gamepersistence.roblox.com/persistence/increment
+https://gamepersistence.roblox.com/persistence/getSortedValues
+https://gamepersistence.roblox.com/persistence/getV2
+https://gamepersistence.roblox.com/persistence/set
+https://gamepersistence.roblox.com/persistence/remove
+
+[Devforum]
+https://devforum.roblox.com/message-bus/02ebd88b32ce424ab7217a3d21bb3c15/poll
+https://devforum.roblox.com/u/USERNAME.json
+https://devforum.roblox.com/user-badges/USERNAME.json
+https://devforum.roblox.com/unread.json?ascending=false
+https://devforum.roblox.com/topics/timings
+https://devforum.roblox.com/t/TOPIC_ID/MESSAGE_NUM.json?track_visit=true&forceLoad=true
+https://devforum.roblox.com/c/CATEGORY_NAME/SUBCATEGORY_NAME/CATEGORY_ID/l/latest.json?ascending=false
+https://devforum.roblox.com/drafts.json?offset=0&username=USERNAME
+https://devforum.roblox.com/manifest.webmanifest
+https://devforum.roblox.com/review/count.json
+https://devforum.roblox.com/logs/report_js_error
+https://devforum.roblox.com/notifications?recent=true&limit=30
+https://devforum.roblox.com/session/USERNAME
+https://devforum.roblox.com/session/csrf
+https://devforum.roblox.com/auth/oidc
+https://devforum.roblox.com/auth/oidc/callback?code=HASHEDCODE_TO_RUN_ONREDIRECT&state=STATE
+
+[Ftp]
+ftp://www.roblox.com
+
+[Tracking]
+https://en.help.roblox.com/hc/tracking/events?locale=en-us
+
+[Remote Scripts]
+https://roblox.zendesk.com/auth/v2/host.js
+https://en.help.roblox.com/cdn-cgi/bm/cv/2172558837/api.js
+
+[Arkoselabs]
+https://roblox-api.arkoselabs.com/fc/gt2/public_key/476068BF-9607-4799-B53D-966BE98E2B81
+https://roblox-api.arkoselabs.com/fc/a/
+https://roblox-api.arkoselabs.com/fc/gfct/
+https://roblox-api.arkoselabs.com/fc/misc/refresh/
+https://roblox-api.arkoselabs.com/fc/ekey/
+https://roblox-api.arkoselabs.com/fc/a/
+https://roblox-api.arkoselabs.com/fc/ca/
+https://roblox-api.arkoselabs.com/fc/api/
+
+[API Key]
+76e5a40c-3ae1-4028-9f10-7c62520bd94f
+
+[Raw Text File]
+https://pastebin.com/095f7T3J
