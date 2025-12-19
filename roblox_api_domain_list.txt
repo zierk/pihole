@@ -1,62 +1,49 @@
-This is a list of all known endpoints for the Roblox API. 
-
-This list is meant to be used as a educational & informative 
-resource to help you match thirdparty development with the functionality 
-that you need. It's highly advised and against the point of this list to abuse, 
-cheat or phish other users. Please be mindful. 
-
-[Basic]
-websiteUrl - https://www.roblox.com
-apiProxyUrl - https://api.roblox.com (deprecated / no longer reachable)
-
-[Domain-Specific]
-abtestingApiSite - https://abtesting.roblox.com
-accountInformationApi - https://accountinformation.roblox.com
-accountSettingsApi - https://accountsettings.roblox.com
-adConfigurationApi - https://adconfiguration.roblox.com
-adsApi - https://ads.roblox.com
-apiGatewayUrl - https://apis.roblox.com
-assetDeliveryApi - https://assetdelivery.roblox.com
-authApi - https://auth.roblox.com
-authAppSite - https://authsite.roblox.com
-avatarApi - https://avatar.roblox.com
-badgesApi - https://badges.roblox.com
-billingApi - https://billing.roblox.com
-captchaApi - https://captcha.roblox.com
-catalogApi - https://catalog.roblox.com
-chatApi - https://chat.roblox.com
-contactsApi - https://contacts.roblox.com
-developApi - https://develop.roblox.com
-economyApi - https://economy.roblox.com (not public / visible)
-economycreatorstatsApi - https://economycreatorstats.roblox.com
-engagementPayoutsApi - https://engagementpayouts.roblox.com
-followingsApi - https://followings.roblox.com
-friendsApi - https://friends.roblox.com
-friendsAppSite - https://friendsite.roblox.com
-gamesApi - https://games.roblox.com
-gameInternationalizationApi - https://gameinternationalization.roblox.com
-groupsApi - https://groups.roblox.com
-inventoryApi - https://inventory.roblox.com
-itemConfigurationApi - https://itemconfiguration.roblox.com
-localeApi - https://locale.roblox.com
-localizationTablesApi - https://localizationtables.roblox.com
-metricsApi - https://metrics.roblox.com
-midasApi - https://midas.roblox.com
-notificationApi - https://notifications.roblox.com
-premiumFeaturesApi - https://premiumfeatures.roblox.com
-presenceApi - https://presence.roblox.com
-privatemMessagesApi - https://privatemessages.roblox.com
-publishApi - https://publish.roblox.com
-screenTimeApi - https://apis.rcs.roblox.com/screen-time-api
-thumbnailsApi - https://thumbnails.roblox.com
-tradesApi - https://trades.roblox.com
-translationRolesApi - https://translationroles.roblox.com
-universalAppConfigurationApi - https://apis.roblox.com/universal-app-configuration
-usersApi - https://users.roblox.com
-voiceApi - https://voice.roblox.com
-shareApi - https://share.roblox.com
-
-[Other-Domain-Specific]
+# Title: Zierk's Roblox DNS Blocklist
+https://www.roblox.com
+https://api.roblox.com (deprecated / no longer reachable)
+https://abtesting.roblox.com
+https://accountinformation.roblox.com
+https://accountsettings.roblox.com
+https://adconfiguration.roblox.com
+https://ads.roblox.com
+https://apis.roblox.com
+https://assetdelivery.roblox.com
+https://auth.roblox.com
+https://authsite.roblox.com
+https://badges.roblox.com
+https://billing.roblox.com
+ttps://captcha.roblox.com
+https://catalog.roblox.com
+https://chat.roblox.com
+https://develop.roblox.com
+https://economy.roblox.com (not public / visible)
+https://economycreatorstats.roblox.com
+https://engagementpayouts.roblox.com
+https://followings.roblox.com
+https://friends.roblox.com
+https://friendsite.roblox.com
+https://games.roblox.com
+https://gameinternationalization.roblox.com
+https://groups.roblox.com
+https://inventory.roblox.com
+https://itemconfiguration.roblox.com
+https://locale.roblox.com
+https://localizationtables.roblox.com
+https://metrics.roblox.com
+https://midas.roblox.com
+https://notifications.roblox.com
+https://premiumfeatures.roblox.com
+https://presence.roblox.com
+https://privatemessages.roblox.com
+https://publish.roblox.com
+https://apis.rcs.roblox.com/screen-time-api
+https://thumbnails.roblox.com
+https://trades.roblox.com
+https://translationroles.roblox.com
+https://apis.roblox.com/universal-app-configuration
+https://users.roblox.com
+https://voice.roblox.com
+https://share.roblox.com
 https://web206.ra.roblox.com
 https://web326.ra.roblox.com
 https://web247.ra.roblox.com
@@ -162,8 +149,6 @@ https://community.roblox.com
 https://nrt-gw.vpn.cn.roblox.com
 https://vpn.cn.roblox.com
 https://www.corp.roblox.com
-
-[Inactive-Domain-Specific]
 https://realtime1.roblox.com
 https://lweb7.p1.roblox.com
 https://setup.gametest1.roblox.com
@@ -239,11 +224,6 @@ https://sitetest2.roblox.com
 https://reports.roblox.com
 https://diag.roblox.com
 https://talent.roblox.com
-
-[Websocket]
-wss://realtime.roblox.com/notifications/connect
-
-[Misc]
 https://metrics.roblox.com/v1/csp/report?type=enforce
 http://ecsv2.roblox.com/pe?t=studio&evt=webBundleError
 https://metrics.roblox.com/v1/performance/measurements
@@ -329,8 +309,6 @@ https://gamepersistence.roblox.com/persistence/getSortedValues
 https://gamepersistence.roblox.com/persistence/getV2
 https://gamepersistence.roblox.com/persistence/set
 https://gamepersistence.roblox.com/persistence/remove
-
-[Devforum]
 https://devforum.roblox.com/message-bus/02ebd88b32ce424ab7217a3d21bb3c15/poll
 https://devforum.roblox.com/u/USERNAME.json
 https://devforum.roblox.com/user-badges/USERNAME.json
@@ -347,18 +325,9 @@ https://devforum.roblox.com/session/USERNAME
 https://devforum.roblox.com/session/csrf
 https://devforum.roblox.com/auth/oidc
 https://devforum.roblox.com/auth/oidc/callback?code=HASHEDCODE_TO_RUN_ONREDIRECT&state=STATE
-
-[Ftp]
-ftp://www.roblox.com
-
-[Tracking]
 https://en.help.roblox.com/hc/tracking/events?locale=en-us
-
-[Remote Scripts]
 https://roblox.zendesk.com/auth/v2/host.js
 https://en.help.roblox.com/cdn-cgi/bm/cv/2172558837/api.js
-
-[Arkoselabs]
 https://roblox-api.arkoselabs.com/fc/gt2/public_key/476068BF-9607-4799-B53D-966BE98E2B81
 https://roblox-api.arkoselabs.com/fc/a/
 https://roblox-api.arkoselabs.com/fc/gfct/
@@ -367,9 +336,3 @@ https://roblox-api.arkoselabs.com/fc/ekey/
 https://roblox-api.arkoselabs.com/fc/a/
 https://roblox-api.arkoselabs.com/fc/ca/
 https://roblox-api.arkoselabs.com/fc/api/
-
-[API Key]
-76e5a40c-3ae1-4028-9f10-7c62520bd94f
-
-[Raw Text File]
-https://pastebin.com/095f7T3J
